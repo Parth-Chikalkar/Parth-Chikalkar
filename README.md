@@ -29,6 +29,12 @@ I am a developer with a strong foundation in Full Stack Web Development who has 
 
 ---
 
+<div align="center">
+  <img src="./assets/space-shooter.gif" alt="Space Shooter" width="100%" />
+</div>
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### **Current Focus: Automation & Java**
@@ -48,5 +54,3 @@ I am a developer with a strong foundation in Full Stack Web Development who has 
   <img src="https://img.shields.io/badge/JWT-JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Bcrypt-Security-red?style=for-the-badge&logo=security&logoColor=white" alt="Bcrypt"/>
 </div>
-
----
